@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<project
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+        xmlns="http://maven.apache.org/POM/4.0.0"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.sunjun.javacv</groupId>
+        <artifactId>corelib</artifactId>
+        <version>1.0</version>
+    </parent>
+    <groupId>cc.sunjun.cv.corelib</groupId>
+    <artifactId>videoSnapshot</artifactId>
+    <version>2018.9.21</version>
+    <name>videoSnapshot</name>
+    <url>https://www.cnblogs.com/sunjun0207/</url>
+    <description>
+        版本更新
+        一、2018.9.21
+        1、多项性能优化
+        ①base64转换性能优化
+        ②ByteBuffer转BufferedImage性能优化
+        ③ffmpeg截图性能优化
+        ④提供线程安全的API
+        2、修复rtsp截图崩溃的bug
+        二、2018.9.18
+        1、修复流媒体视频检索时间过长问题
+        三、2018.9.14
+        1、支持rtsp/rtmp/hls/媒体流和视频文件截图
+        2、支持bmp/jpg/png/jpeg/gif等多种格式图片保存
+        3、支持base64图像数据返回
+    </description>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!-- lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.22</version>
+        </dependency>
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.7.0</version>
+                <configuration>
+                    <verbose>true</verbose>
+                    <fork>true</fork>
+                    <executable>${JAVA_HOME}/bin/javac</executable>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
