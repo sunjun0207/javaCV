@@ -9,7 +9,7 @@ import cc.sunjun.cv.corelib.videoRecord.entity.RecordInfo;
 import cc.sunjun.cv.corelib.videoRecord.storage.RecordInfoStorage;
 
 /**
- * @Author: SunJun
+ * @Author: Sun Jun
  * @Email: sunjun0207@163.com
  * @Version: 1.0
  * @Since: 2022/9/9 13:38

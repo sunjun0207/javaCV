@@ -19,7 +19,7 @@ import com.jcraft.jsch.Session;
 import com.jcraft.jsch.SftpException;
 
 /**
- * @Author: SunJun
+ * @Author: Sun Jun
  * @Email: sunjun0207@163.com
  * @Version: 1.0
  * @Since: 2022/9/13 16:54

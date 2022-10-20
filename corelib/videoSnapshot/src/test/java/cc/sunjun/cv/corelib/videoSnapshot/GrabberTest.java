@@ -7,7 +7,7 @@ import cc.sunjun.cv.corelib.videoSnapshot.core.JavaImgConverter;
 import cc.sunjun.cv.corelib.videoSnapshot.grabber.impl.FFmpegVideoImageGrabberImpl;
 
 /**
- * @Author: SunJun
+ * @Author: Sun Jun
  * @Email: sunjun0207@163.com
  * @Version: 1.0
  * @Since: 2022/9/9 13:38

@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import cc.sunjun.cv.video.snapshot.web.pojo.ScreenshotHistory;
 
 /**
- * @Author: SunJun
+ * @Author: Sun Jun
  * @Email: sunjun0207@163.com
  * @Version: 1.0
  * @Since: 2022/9/9 13:38
