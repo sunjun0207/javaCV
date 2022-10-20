@@ -14,7 +14,7 @@ import static org.bytedeco.javacpp.opencv_objdetect.*;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/9 13:38
  * @Description: JavaCV测试
  */

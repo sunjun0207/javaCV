@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/16 18:28
  * @Description: 快照信息
  */

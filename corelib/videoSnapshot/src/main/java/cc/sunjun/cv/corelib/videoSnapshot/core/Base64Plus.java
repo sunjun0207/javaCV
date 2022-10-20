@@ -13,7 +13,7 @@ import java.util.Objects;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/9 13:38
  * @Description: Base64增强版，支持更多语法糖
  */

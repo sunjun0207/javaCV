@@ -5,7 +5,7 @@ import cc.sunjun.cv.video.snapshot.web.pojo.ShotParam;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/16 9:30
  * @Description: 视频流快照接口
  */

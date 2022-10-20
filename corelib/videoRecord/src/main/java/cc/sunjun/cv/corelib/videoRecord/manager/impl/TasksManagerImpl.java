@@ -16,7 +16,7 @@ import cc.sunjun.cv.corelib.videoRecord.storage.impl.RecordInfoStorageImpl;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/9 13:38
  * @Description: 默认任务管理（内置对象池管理）
  */

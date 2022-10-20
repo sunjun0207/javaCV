@@ -6,7 +6,7 @@ import lombok.ToString;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/14 10:36
  * @Description: 基础异常类
  */

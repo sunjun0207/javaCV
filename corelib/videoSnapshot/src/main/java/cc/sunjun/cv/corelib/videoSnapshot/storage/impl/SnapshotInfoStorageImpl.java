@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/19 9:30
  * @Description: 快照信息存储实现类
  */

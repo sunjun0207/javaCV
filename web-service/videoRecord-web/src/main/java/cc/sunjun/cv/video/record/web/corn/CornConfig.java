@@ -6,7 +6,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/13 17:50
  * @Description: 定时任务
  */

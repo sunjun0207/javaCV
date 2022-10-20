@@ -21,7 +21,7 @@ import com.jcraft.jsch.SftpException;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/13 16:54
  * @Description: exec用于执行命令;sftp用于文件处理
  */

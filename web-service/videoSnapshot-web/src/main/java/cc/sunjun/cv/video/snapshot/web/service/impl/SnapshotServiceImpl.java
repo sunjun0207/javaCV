@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/16 9:37
  * @Description: 视频流快照接口实现
  */

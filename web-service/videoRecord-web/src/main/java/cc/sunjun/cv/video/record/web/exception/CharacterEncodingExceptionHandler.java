@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/15 17:14
  * @Description: 自定义编码格式
  */

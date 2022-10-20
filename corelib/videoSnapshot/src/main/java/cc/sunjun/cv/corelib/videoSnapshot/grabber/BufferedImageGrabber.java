@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * @Author: Sun Jun
  * @Email: sunjun0207@163.com
- * @Version: 1.0
+ * @Version: 1.00
  * @Since: 2022/9/9 13:38
  * @Description: 图像抓取接口
  */
