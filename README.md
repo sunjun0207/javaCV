@@ -2,12 +2,12 @@
       video recording and snapshot service, based on javaCV. 
       基于javaCV的跨平台视频录像和快照(截图)服务，开箱即用。
 ### 演示demo
-1、[截图服务在线演示：http://192.168.0.40/screenShot/testImgshot](http://192.168.0.40/screenShot/testImgshot)<br />
+1、[截图服务在线演示：http://192.168.0.40:8182/screenShot/testImgshot](http://192.168.0.40:8182/screenShot/testImgshot)<br />
       
-2、[录像服务在线演示：http://192.168.0.40/videoRecord/testRecord](http://192.168.0.40/videoRecord/testRecord)<br />
+2、[录像服务在线演示：http://192.168.0.40:8183/videoRecord/testRecord](http://192.168.0.40:8183/videoRecord/testRecord)<br />
        
-       可以通过http://192.168.0.40/screenShot/monitor 查看历史截图列表
-       同样可以通过http://192.168.0.40/videoRecord/monitor 查看历史录像列表并进行点播观看
+       可以通过http://192.168.0.40:8182/screenShot/monitor 查看历史截图列表
+       同样可以通过http://192.168.0.40:8183/videoRecord/monitor 查看历史录像列表并进行点播观看
  
 ### dependency library
       Core lib based on 'javacv 1.4.x',web service based on 'spring-boot 2.x'.
